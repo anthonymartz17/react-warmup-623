@@ -1,0 +1,10 @@
+
+.form_container{
+  display: grid;
+  place-items: center;
+}
+
+
+.form{
+  border: 1px solid;
+}
